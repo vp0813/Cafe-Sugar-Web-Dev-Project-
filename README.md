@@ -28,7 +28,7 @@ Other resources -
 Here are some screenshots of the **Cafe Sugar** Project :
 <br>
 ###Home Page
-![Home_Page](screenshot/home.png)
+![Home_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/home.png)
 <br>
 ###Main Page
 ![Main_Page](screenshot/main.png)

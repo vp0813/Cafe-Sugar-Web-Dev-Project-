@@ -24,10 +24,15 @@ Other resources -
 1. Font Awesome for icons
 2. Google images for reference.
 
-###Screenshots
+**Screenshots**
 Here are some screenshots of the **Cafe Sugar** Project :
+###Home Page
 ![Home Page](screenshot/home.png)
+###Main Page
 ![Main Page](screenshot/main.png)
+###Cart Page
 ![Cart Page](screenshot/cart.png)
+###Alert1
 ![Alert1](screenshot/alert.png)
+###Alert2
 ![Alert2](screenshot/alert1.png)

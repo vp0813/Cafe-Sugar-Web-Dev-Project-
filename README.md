@@ -1,6 +1,7 @@
 # Cafe Sugar
 
 A simple and efficient **Cafe Ordering Website** built using **HTML, CSS, and JavaScript.**
+<br>
 This project make's it easy for employees to keep track of customer's food item requirement, track food item quantity, automatic total price calculation so no need to do manual calculation or use calculator, and a clean user-friendly frontend makes it efficient to use.
 
 **Features ⭐ -** 
@@ -13,6 +14,7 @@ This project make's it easy for employees to keep track of customer's food item 
 7. Clean and user friendly frontend
 
 I have made this web development project to enhance my skills in **HTML, CSS, JavaScript**.
+<br>
 I am also looking forward to add more features in future to make it more efficient to use.
 
 **Technologies Used 🛠️ -**
@@ -25,14 +27,35 @@ Other resources -
 2. Google images for reference.
 
 **Screenshots**
+<br>
 Here are some screenshots of the **Cafe Sugar** Project :
+<br>
+<br>
 ###Home Page
-![Home Page](screenshot/home.png)
+<br>
+<br>
+![Home_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/home.png)
+<br>
+<br>
 ###Main Page
-![Main Page](screenshot/main.png)
+<br>
+<br>
+![Main_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/main.png)
+<br>
+<br>
 ###Cart Page
-![Cart Page](screenshot/cart.png)
+<br>
+<br>
+![Cart_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/cart.png)
+<br>
+<br>
 ###Alert1
-![Alert1](screenshot/alert.png)
+<br>
+<br>
+![Alert1](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/alert.png)
+<br>
+<br>
 ###Alert2
-![Alert2](screenshot/alert1.png)
+<br>
+<br>
+![Alert2](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/alert2.png)

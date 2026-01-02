@@ -205,7 +205,7 @@ if (clear) {
 let returnBtn = document.getElementById("return");
 
 if(returnBtn){
-    returnBtn.onclick = function() {
-        window.location.href = "main.html";
-    }
+  returnBtn.onclick = function(){
+    window.location.href = "main.html";
+  }
 }
